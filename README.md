@@ -10,7 +10,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/KeepWannabe/Remot3d/master/screenshot/remoted-logo-LONG.png">
 
-## __________________________________________________________________
+## <hr/>
 
 ***Remot3d*** - A tool made to generate backdoor to control and exploit a server where the server runs the PHP (Hypertext Preprocessor) program.
 
@@ -18,8 +18,7 @@
 Written in Shell Script Language or commonly known as BASH by a 16 year old teenager.
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-## ----------------------------------------------------------------------
-
+## <hr/>
 # Screenshots
 <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/1.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/2.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/3.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/4.png" width="25%"></img>
 
