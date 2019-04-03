@@ -7,12 +7,7 @@
 [![HitCount](http://hits.dwyl.io/KeepWannabe/Remot3d.svg)](http://hits.dwyl.io/KeepWannabe/Remot3d)
 [![Stage](https://img.shields.io/badge/Release-Stable-yellow.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-red.svg)]()
-<br>
-# Buy Me Coffee
 
-## PAYPAL        : https://www.paypal.me/abdiprawiran
-## PERFECT MONEY : U15461128
-<br>
 <img align="center" src="https://raw.githubusercontent.com/KeepWannabe/Remot3d/master/screenshot/remoted-logo-LONG.png">
 
 ## <hr/>
@@ -23,6 +18,8 @@
 Written in Shell Script Language or commonly known as BASH by a 16 year old teenager.
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
+  - PAYPAL        : https://www.paypal.me/abdiprawiran
+  - PERFECT MONEY : U15461128
 ## <hr/>
 # Screenshots
 <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/1.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/2.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/3.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/4.png" width="25%"></img>
