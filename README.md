@@ -7,7 +7,12 @@
 [![HitCount](http://hits.dwyl.io/KeepWannabe/Remot3d.svg)](http://hits.dwyl.io/KeepWannabe/Remot3d)
 [![Stage](https://img.shields.io/badge/Release-Stable-yellow.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-red.svg)]()
+<br>
+# Buy Me Coffee
 
+## PAYPAL        : https://www.paypal.me/abdiprawiran
+## PERFECT MONEY : U15461128
+<br>
 <img align="center" src="https://raw.githubusercontent.com/KeepWannabe/Remot3d/master/screenshot/remoted-logo-LONG.png">
 
 ## <hr/>
